@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🎨 Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=190&section=header&text=Azoff%20Dev&fontSize=46&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=190&section=header&text=AZOFFUZ&fontSize=46&fontAlignY=38&animation=fadeIn" width="100%" />
 
   ### 🎮 Dasturchi | 🎨 Dizayner | 🚀 Full-Stack & System Engineer
 
