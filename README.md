@@ -1,6 +1,8 @@
 <div align="center">
 
-  # 👋 Salom, men Azoff!
+  <!-- 🎨 Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=190&section=header&text=Azoff%20Dev&fontSize=46&fontAlignY=38&animation=fadeIn" width="100%" />
+
   ### 🎮 Dasturchi | 🎨 Dizayner | 🚀 Full-Stack & System Engineer
 
   <p align="center">
@@ -21,6 +23,22 @@
     <a href="https://reddit.com/user/azoffuz" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
     <a href="https://facebook.com/azoffuz" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
     <a href="mailto:azoffmusic@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
+  ---
+
+  ## 🧰 Ish qurollarim (OS, Editors & Tools)
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   </p>
 
   ---
@@ -79,7 +97,7 @@
   <br/>
 
   <details>
-    <summary><b>⚙️ Backend, Server & CMS</b></summary><br/>
+    <summary><b>⚙️️ Backend, Server & CMS</b></summary><br/>
     <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -117,12 +135,7 @@
   <br/>
 
   <details>
-    <summary><b>☁️️ DevOps, Bulut & Tizimlar (Cloud & OS)</b></summary><br/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    <summary><b>☁ DevOps & Bulut (Cloud Services)</b></summary><br/>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon_AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -168,7 +181,7 @@
   <br/>
 
   <details>
-    <summary><b>🎨 Dizayn, 3D & Multimedia</b></summary><br/>
+    <summary><b>🎨 Dizayn, 3D & Audio</b></summary><br/>
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
@@ -186,7 +199,19 @@
 
   ---
 
-  ## 📊 GitHub Statistika
+  ## 🐍 GitHub Contribution Snake
+  
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azoffuz/azoffuz/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azoffuz/azoffuz/output/github-contribution-grid-snake.svg">
+      <img alt="github-snake" src="https://raw.githubusercontent.com/azoffuz/azoffuz/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
+  </p>
+
+  ---
+
+  ## 📊 GitHub & Faoliyat Statistikasi
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=azoffuz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="Stats" />
@@ -197,9 +222,23 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoffuz&theme=tokyonight&hide_border=true&layout=compact" height="135" alt="Top Languages" />
   </p>
 
+  <!-- WakaTime statistikasi (Agar hisobingiz bo'lsa, avtomatik ma'lumot chiqadi) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azoffuz&theme=tokyonight&hide_border=true&layout=compact" height="135" alt="WakaTime Stats" />
+  </p>
+
   ## 🏆 Yutuqlar (Trophies)
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=azoffuz&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  </p>
+
+  ---
+
+  ## 🎵 Hozir nima tinglayapman? (Spotify)
+  <p align="center">
+    <a href="https://open.spotify.com/user/azoffuz">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=azoffuz&count=1" alt="Spotify Recently Played" />
+    </a>
   </p>
 
   ---
