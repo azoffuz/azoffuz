@@ -3,7 +3,7 @@
   <!-- 🎨 Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=190&section=header&text=AZOFFUZ&fontSize=46&fontAlignY=38&animation=fadeIn" width="100%" />
 
-  ### 🎮 Dasturchi | 🎨 Dizayner | 🚀 Full-Stack & System Engineer
+  ### 🎮 Software Developer | 🎨 Designer | 🚀 Full-Stack & System Engineer
 
   <p align="center">
     <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=azoffuz&icon=6&color=0" alt="Views" /></a>
@@ -11,7 +11,7 @@
 
   ---
 
-  ## 🌐 Bog‘lanish (Socials)
+  ## 🌐 Connect with Me (Socials)
   
   <p align="center">
     <a href="https://discord.gg/pgpqGuNq6D" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -22,12 +22,12 @@
     <a href="https://tiktok.com/@azoffuz" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
     <a href="https://reddit.com/user/azoffuz" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
     <a href="https://facebook.com/azoffuz" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-    <a href="mailto:azoffmusic@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:azizbekhikmatillayev8899@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
   ---
 
-  ## 🧰 Ish qurollarim (OS, Editors & Tools)
+  ## 🧰 OS, Editors & Development Tools
 
   <p align="center">
     <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
@@ -46,7 +46,7 @@
   ## 💻 Tech Stack & Skills
 
   <details open>
-    <summary><b>🔥 Dasturlash tillari (Programming Languages)</b></summary><br/>
+    <summary><b>🔥 Programming Languages</b></summary><br/>
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -75,7 +75,7 @@
   <br/>
 
   <details>
-    <summary><b>🌐 Frontend & Veb Texnologiyalar</b></summary><br/>
+    <summary><b>🌐 Frontend & Web Technologies</b></summary><br/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -97,7 +97,7 @@
   <br/>
 
   <details>
-    <summary><b>⚙️️ Backend, Server & CMS</b></summary><br/>
+    <summary><b>⚙️ Backend, Server & CMS</b></summary><br/>
     <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -118,7 +118,7 @@
   <br/>
 
   <details>
-    <summary><b>🗄 Ma’lumotlar bazasi (Databases) & Kesh</b></summary><br/>
+    <summary><b>🗄 Databases & Caching</b></summary><br/>
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -135,7 +135,7 @@
   <br/>
 
   <details>
-    <summary><b>☁ DevOps & Bulut (Cloud Services)</b></summary><br/>
+    <summary><b>☁ DevOps & Cloud Services</b></summary><br/>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon_AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -153,7 +153,7 @@
   <br/>
 
   <details>
-    <summary><b>🤖 Sun'iy Intellekt & Ma'lumotlar tahlili (AI & Data Science)</b></summary><br/>
+    <summary><b>🤖 Artificial Intelligence & Data Science</b></summary><br/>
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -167,7 +167,7 @@
   <br/>
 
   <details>
-    <summary><b>🕹 O‘yin yaratish & Grafik (Game Development)</b></summary><br/>
+    <summary><b>🕹 Game Development & Graphics</b></summary><br/>
     <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
     <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
@@ -181,7 +181,7 @@
   <br/>
 
   <details>
-    <summary><b>🎨 Dizayn, 3D & Audio</b></summary><br/>
+    <summary><b>🎨 Design, 3D & Audio Production</b></summary><br/>
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
@@ -199,6 +199,15 @@
 
   ---
 
+  ## 🌟 Open Source & Contributions
+
+  I actively contribute to community-driven, privacy-respecting open-source software:
+
+  - 🌦️ **[Cirrus Weather (omweather)](https://github.com/woheller69/omweather):** Contributed complete Uzbek (`uz`) localization and store metadata ([PR #185](https://github.com/woheller69/omweather/pull/185)).
+  - 🌐 Localizing and expanding access to high-impact open-source tools for global and Uzbek-speaking communities.
+
+  ---
+
   ## 🐍 GitHub Contribution Snake
   
   <p align="center">
@@ -211,7 +220,7 @@
 
   ---
 
-  ## 📊 GitHub & Faoliyat Statistikasi
+  ## 📊 GitHub & Activity Statistics
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=azoffuz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="Stats" />
@@ -222,19 +231,19 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoffuz&theme=tokyonight&hide_border=true&layout=compact" height="135" alt="Top Languages" />
   </p>
 
-  <!-- WakaTime statistikasi (Agar hisobingiz bo'lsa, avtomatik ma'lumot chiqadi) -->
+  <!-- WakaTime Statistics -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azoffuz&theme=tokyonight&hide_border=true&layout=compact" height="135" alt="WakaTime Stats" />
   </p>
 
-  ## 🏆 Yutuqlar (Trophies)
+  ## 🏆 Achievements & Trophies
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=azoffuz&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
   </p>
 
   ---
 
-  ## 🎵 Hozir nima tinglayapman? (Spotify)
+  ## 🎵 Currently Playing (Spotify)
   <p align="center">
     <a href="https://open.spotify.com/user/azoffuz">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=azoffuz&count=1" alt="Spotify Recently Played" />
@@ -243,7 +252,7 @@
 
   ---
 
-  ## ☕ Qo‘llab-quvvatlash
+  ## ☕ Support & Sponsorship
   
   <a href="https://buymeacoffee.com/azoffuz" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
